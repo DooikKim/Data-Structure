@@ -1,3 +1,3 @@
 # Data-Structure
-
-might start studying after the winter semester ends or even sooner
+Data Structure is about saving and accessing to data
+related to algorithm
