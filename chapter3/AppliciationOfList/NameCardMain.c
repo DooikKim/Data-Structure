@@ -8,7 +8,7 @@ int main() {
     ListInit(&list);
     NameCard* pcard;
 
-    pcard = MakeNameCard("김두익", "010-6361-8230");
+    pcard = MakeNameCard("김두익", "010-6371-8230");
     LInsert(&list, pcard);
 
     pcard = MakeNameCard("박은주", "010-5550-2758");
